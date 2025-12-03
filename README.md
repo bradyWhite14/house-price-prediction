@@ -39,7 +39,7 @@ The success of the model relied entirely on extensive data preprocessing. This s
 
 | Model | Metric (Log Space) | Metric (Original Dollar Units) |
 | :--- | :--- | :--- |
-| **Linear Regression** | RMSE $\approx 0.15$ | RMSE $\approx \mathbf{\$20,000}$ |
+| **Linear Regression** | RMSE approx 0.15$ | RMSE $20,000 |
 
 **Interpretation:** The model is highly accurate, predicting house prices with an average prediction error of approximately $\mathbf{\$20,000}$ across the entire dataset. This establishes a strong, well-documented baseline for future work.
 
